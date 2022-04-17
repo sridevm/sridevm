@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sridevm
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python ,AWS Glue and Apache Spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sridevimahendiran@gmail.com
 
